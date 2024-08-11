@@ -1,4 +1,4 @@
-# Maltimart Ecommerce
+# Multimart Ecommerce
 
 
 ## 😎 Features
